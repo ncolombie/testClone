@@ -17,6 +17,7 @@ clear: pour effacer les commandes du terminal/cmd
 ls:affiche les fichiers dans le fichier courant
 ls -a: affiche les fichiers cachés
 mv fileName(a deplacer) dirName (destination): deplace/move un ficher vers un dossier
+mv fileName newFileName: delete le premier fichier et le renome avec le 2eme nom
 cat fileName: affiche le contenu du fichier
 rm -nf/ : ATTENTION efface tout le disque dur
 rm -nf .:ATTENTION efface tout le dossier parent!!!
