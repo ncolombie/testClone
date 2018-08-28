@@ -1,6 +1,20 @@
-test test test test test test test
+pwd: affiche chemin du repertoir courant
+clear: vide l'invite de cmd
+ls: montre les fichier contrnue dans le fichier dans lequel on se trouve
+ls -a: comme ls + fichiers caches
+mv: moove le fichier
+cat:affiche le contenue du fichier
+rm -rf dirname: suprime (remove)
+
+commandes vim
+passer en cmd esc esc 
 insert i
-Hello pol
-test tes test
-pesser en cmd esc esc 
+:w = save
+:wq = save and quit
+:q! = force quit
+dd = cut
+xdd = x nombre de ligne a cut dd cut
+u = undo
+P = past
+
 
