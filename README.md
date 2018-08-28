@@ -5,7 +5,7 @@
 * git remote -v: affiche l'url du repository auqyuel on est relié
 * git status: status du fichier (tracké en vert ou non en rouge)
 * git add fileName: on ajoute les changements à la base de git pour les tracker
-* git commit fileName -m"message": commit avec un message obligatoirement (attention sinon, passe dans Vim pour demander le message)
+* git commit -m "message": commit avec un message obligatoirement (attention sinon, passe dans Vim pour demander le message)
 * git push origin master: push le fichier dans le repository github
 * git pull origin master pour recuperer la copie du fichier sur le cloud github et le placer dans origine/master
 
