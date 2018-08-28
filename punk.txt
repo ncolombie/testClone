@@ -1,10 +1,23 @@
-gimghkj
-dd
-exxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxe
-abcde
+commandes Git Bash
 
-eeeee
+git clone url: cloner le repository git hub à l'url
+git remote -v: affiche l'url du repository auqyuel on est relié
+git status: status du fichier (tracké en vert ou non en rouge)
+git add fileName: on ajoute les changements à la base de git pour les tracker
+git commit fileName -m"message": commit avec un message obligatoirement (attention sinon, passe dans Vim pour demander le message)
+git push fileName: push le fichier dans le repository github
+git pull origin master pour recuperer la copie du fichier sur le cloud github et le placer dans origine/master
 
 
 
-fffff
+
+commandes linux
+pwd:affiche le chemin du repertoire courant
+clear: pour effacer les commandes du terminal
+ls:affiche les fichiers dans le fichier courant
+ls -a: affiche les fichiers cachés
+mv fichier(a deplacer) dossier (destination): deplace un ficher vers un dossier
+cat: affiche le contenu du fichier
+rm -nf/ : ATTENTION efface tout le disque dur
+rm -nf .:ATTENTION efface tout le dossier parent!!!
+rm -nf dirName: ATTENTION efface le dossier dirNamet
